@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ariharan2001
+- 👋 Hi, I’m ariharan.
 - 👀 I’m interested in CP and development
 - 🌱 I’m currently learning app development
 - 💞️ I’m looking to collaborate on CP
