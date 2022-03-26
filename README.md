@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ariharan.
-- 👀 I’m interested in CP and development
-- 🌱 I’m currently learning app development
+- 👀 I’m interested in CP and development with MERN
+- 🌱 I’m currently doing full stack development
 - 💞️ I’m looking to collaborate on CP
 - 📫 How to reach me 
 
