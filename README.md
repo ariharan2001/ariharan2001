@@ -1,7 +1,7 @@
 - 👋 Hi, I’m ariharan.
 - 👀 I’m interested in CP and development.
 - 🌱 I’m currently doing full stack development with MERN.
-- 💞️ I’m looking to collaborate on CP.
+- 💞️ I’m looking to collaborate on web development and CP.
 - 📫 How to reach me : email @ ariharanariharan2001@gmail.com.
 
 <!---
